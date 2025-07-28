@@ -67,3 +67,10 @@ MIT License
 
 Check out the fun behind-the-scenes story and share your thoughts:  
 👉 [LinkedIn Post](https://www.linkedin.com/posts/loganathan-msc_github-loganathanbcaspotifyplaylistcreationautomation-activity-7355532661399998465-X3P1?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD9EOlABSwqAD8mzhrTg773z-cjM6tdufwM)
+
+---
+
+## 🎧 Listen to My Spotify Playlists
+
+Explore the auto-generated playlists (and random surprises 😅):  
+👉 [My Spotify Profile](https://open.spotify.com/user/31c5o4qyx44olp65ghpfmy7nasqq?si=1ef4bce306f54066)
